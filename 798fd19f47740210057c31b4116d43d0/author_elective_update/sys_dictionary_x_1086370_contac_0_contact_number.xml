@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="number" table="x_1086370_contac_0_contact">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Number</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>number</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1086370_contac_0_contact</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 20:35:04</sys_created_on>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="Contact Management" source="x_1086370_contac_0">798fd19f47740210057c31b4116d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Management">798fd19f47740210057c31b4116d43d0</sys_scope>
+        <sys_update_name>sys_dictionary_x_1086370_contac_0_contact_number</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 20:37:17</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contact Management">798fd19f47740210057c31b4116d43d0</application>
+        <file_path/>
+        <instance_id>03cd7a8e1b9271d07d9d2f8dee4bcbd7</instance_id>
+        <instance_name>dev205653</instance_name>
+        <name>sys_dictionary_x_1086370_contac_0_contact_number</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_1086370_contac_0_contact">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Number</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>number</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1086370_contac_0_contact</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>true</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-12 20:35:04</sys_created_on>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="Contact Management" source="x_1086370_contac_0">798fd19f47740210057c31b4116d43d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contact Management">798fd19f47740210057c31b4116d43d0</sys_scope>
+        <sys_update_name>sys_dictionary_x_1086370_contac_0_contact_number</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-12 20:37:17</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>676664465</payload_hash>
+        <record_name>Contact.Number</record_name>
+        <reverted_from/>
+        <source>b3e681eb47384210057c31b4116d4361</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 13:23:28</sys_created_on>
+        <sys_id>18f6c1eb47384210057c31b4116d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e37fb6cc00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 13:23:28</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>14f6c1eb77384210a1554bb7ab442b44</update_guid>
+        <update_guid_history>14f6c1eb77384210a1554bb7ab442b44:0,d705c52ba73842108288a3ab954236d2:235663440,65a0a113d0b402106f91912f5adfdc22:-1713771009,c920a1df24740210d0e81902e00de781:2019482652</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 13:25:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>32ad874b6cfc4da49fd9f3f0b85b9c44</sys_id>
+        <sys_metadata>8cf681eb47384210057c31b4116d43e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="Contact Management" source="x_1086370_contac_0">798fd19f47740210057c31b4116d43d0</sys_package>
+        <sys_parent display_value="Contact">3820a1df47740210057c31b4116d431e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Contact Management">798fd19f47740210057c31b4116d43d0</sys_scope>
+        <sys_scope_delete display_value="">318d9e0d70b94730aa433088a88d2b10</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1086370_contac_0_contact_number</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1086370_contac_0_contact_number">18f6c1eb47384210057c31b4116d4344</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 13:25:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
